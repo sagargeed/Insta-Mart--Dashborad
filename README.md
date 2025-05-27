@@ -11,7 +11,6 @@ Microsoft Excel / Power Query – For data cleaning and transformation
 
 DAX (Data Analysis Expressions) – For creating calculated columns, measures, and KPIs
 
-Power BI Service – (Optional) for publishing and sharing the dashboard
 
 📊 Data Source
 
@@ -24,8 +23,7 @@ Product and category information
 Customer demographics
 
 Sales and revenue data
-
-[Specify if sourced from Kaggle, Excel, or self-generated]
+sourced from Kaggle Excel
 
 ✨ Features / Highlights
 
@@ -42,7 +40,6 @@ Trend analysis with visual storytelling elements
 Clean, user-friendly UI for executive reporting
 
 Screenshot-
-https://github.com/sagargeed/Insta-Mart--Dashborad/blob/main/Insta%20mart%20Dashboard.png
 
 ![image](https://github.com/user-attachments/assets/a1821dd7-cdf7-464a-9444-b7844da3a632)
 
