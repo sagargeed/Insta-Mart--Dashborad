@@ -44,4 +44,7 @@ Clean, user-friendly UI for executive reporting
 Screenshot-
 https://github.com/sagargeed/Insta-Mart--Dashborad/blob/main/Insta%20mart%20Dashboard.png
 
+![image](https://github.com/user-attachments/assets/a1821dd7-cdf7-464a-9444-b7844da3a632)
+
+
 
